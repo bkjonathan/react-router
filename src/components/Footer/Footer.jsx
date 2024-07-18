@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
-import FacebookSVG from "./icons/FacebookSVG.jsx";
-import DiscordSVG from "./icons/DiscordSVG.jsx";
-import TwitterSVG from "./icons/TwitterSVG.jsx";
-import GithubSVG from "./icons/GithubSVG.jsx";
-import DribbbleSVG from "./icons/DribbbleSVG.jsx";
+import FacebookSVG from "../icons/FacebookSVG.jsx";
+import DiscordSVG from "../icons/DiscordSVG.jsx";
+import TwitterSVG from "../icons/TwitterSVG.jsx";
+import GithubSVG from "../icons/GithubSVG.jsx";
+import DribbbleSVG from "../icons/DribbbleSVG.jsx";
 import SocialMediaLink from "./SocialMediaLink.jsx";
 import Section from "./Section.jsx";
 
