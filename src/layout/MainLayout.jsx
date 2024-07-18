@@ -1,8 +1,7 @@
-import React from "react";
 import { Footer, Header } from "../components";
 import { Outlet } from "react-router-dom";
 
-function MainLayout(props) {
+const MainLayout = () => {
   return (
     <>
       <Header />
@@ -10,6 +9,6 @@ function MainLayout(props) {
       <Footer />
     </>
   );
-}
+};
 
 export default MainLayout;
